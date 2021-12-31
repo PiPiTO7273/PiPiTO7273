@@ -1,9 +1,15 @@
 # Hi There 😎
-making a rhythm game with hsp3
 
+<table border=0>
+<tr>
+  making a rhythm game with hsp3
+</tr>
+<tr>
 <div align="right">
 <img src="http://puoro.ml/images/1x/asset-1_h.png">
 </div>
+</tr>
+</table>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiPiTO7273)](https://github.com/anuraghazra/github-readme-stats)
 
