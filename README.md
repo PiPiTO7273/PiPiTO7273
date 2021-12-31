@@ -2,7 +2,7 @@
 
 <table border=0>
 <tr>
-  making a rhythm game with hsp3
+  <p>making a rhythm game with hsp3<br><br><a href="http://puoro.ml/">Download sapphire</a></p>
 </tr>
 <tr>
 <div align="right">
