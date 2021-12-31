@@ -3,12 +3,12 @@
 <table border=0>
 <tr>
 <td>
-<p>making a rhythm game with hsp3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><a href="http://puoro.ml/">Download sapphire</a></p>
+<p>making a rhythm game with hsp3
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br><br><a href="http://puoro.ml/">Download sapphire</a></p>
 </td>
 <td>
-<div align="right">
 <img src="http://puoro.ml/images/1x/asset-1_h.png" width=75%>
-</div>
 </td>
 </tr>
 </table>
