@@ -7,7 +7,7 @@
 </td>
 <td>
 <div align="right">
-<img src="http://puoro.ml/images/1x/asset-1_h.png">
+<img src="http://puoro.ml/images/1x/asset-1_h.png" width=75%>
 </div>
 </td>
 </tr>
